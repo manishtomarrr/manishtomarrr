@@ -1,7 +1,7 @@
 Hey, I'm Manish Tomar
 AI Engineer • LLMs • RAG Systems • Vision Models
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*OohqW5DGh9CQS4hLY5FXzA.gif" width="300"/>
+  <img src="https://github.com/kamranahmedse/awesome-devops/blob/master/illustrations/brain.gif?raw=true" width="280"/>
 </p>
 🚀 About Me
 AI Engineer from Noida, currently working at Expediens Esolutions.
