@@ -1,6 +1,8 @@
 Hey, I'm Manish Tomar
 AI Engineer • LLMs • RAG Systems • Vision Models
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFmcXB0OWZtZHd2NnY5ZHV6eThvdWgzbTFhdG9laGQ5ZmlsM2d4ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wpoLqr5FT1sY0/giphy.gif" width="250" /> </p>
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*OohqW5DGh9CQS4hLY5FXzA.gif" width="300"/>
+</p>
 🚀 About Me
 AI Engineer from Noida, currently working at Expediens Esolutions.
 I build RAG-based apps, OCR pipelines (Qwen-VL), FastAPI backends, and vector search systems.
